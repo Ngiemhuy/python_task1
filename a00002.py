@@ -1,0 +1,6 @@
+name= input("Input your name:")
+print("name:",name)
+print(name[9])
+print(len(name))
+print("thelast letter is:",name[len(name)-1])
+print("thefirst letter is:",name[-len(name)])
